@@ -1,1 +1,17 @@
-css
+body{
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0 20px;
+}
+a {
+    font-size: 16px;
+    color: aquamarine;
+    display: block;
+    text-align: center;
+}
